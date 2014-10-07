@@ -7,12 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4318540419CFEA48001DC2CA /* IMG_0944.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4318540319CFEA48001DC2CA /* IMG_0944.JPG */; };
 		4346358019C565C200531D3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4346357F19C565C200531D3E /* AppDelegate.swift */; };
 		4346358219C565C200531D3E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4346358119C565C200531D3E /* ViewController.swift */; };
 		4346358519C565C200531D3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4346358319C565C200531D3E /* Main.storyboard */; };
 		4346358719C565C300531D3E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4346358619C565C300531D3E /* Images.xcassets */; };
 		4346358A19C565C300531D3E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4346358819C565C300531D3E /* LaunchScreen.xib */; };
 		4346359619C565C300531D3E /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4346359519C565C300531D3E /* PostcardTests.swift */; };
+		43CF5E7419D9125D00F9F192 /* Ferrari_250_Testa_Rossa_1957_Most_Expensive_Racing_Car.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43CF5E7319D9125D00F9F192 /* Ferrari_250_Testa_Rossa_1957_Most_Expensive_Racing_Car.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4318540319CFEA48001DC2CA /* IMG_0944.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0944.JPG; sourceTree = "<group>"; };
 		4346357A19C565C200531D3E /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4346357E19C565C200531D3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4346357F19C565C200531D3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +39,7 @@
 		4346358F19C565C300531D3E /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4346359419C565C300531D3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4346359519C565C300531D3E /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		43CF5E7319D9125D00F9F192 /* Ferrari_250_Testa_Rossa_1957_Most_Expensive_Racing_Car.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ferrari_250_Testa_Rossa_1957_Most_Expensive_Racing_Car.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		4346357D19C565C200531D3E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				43CF5E7319D9125D00F9F192 /* Ferrari_250_Testa_Rossa_1957_Most_Expensive_Racing_Car.jpg */,
+				4318540319CFEA48001DC2CA /* IMG_0944.JPG */,
 				4346357E19C565C200531D3E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43CF5E7419D9125D00F9F192 /* Ferrari_250_Testa_Rossa_1957_Most_Expensive_Racing_Car.jpg in Resources */,
+				4318540419CFEA48001DC2CA /* IMG_0944.JPG in Resources */,
 				4346358519C565C200531D3E /* Main.storyboard in Resources */,
 				4346358A19C565C300531D3E /* LaunchScreen.xib in Resources */,
 				4346358719C565C300531D3E /* Images.xcassets in Resources */,
@@ -405,6 +413,7 @@
 				4346359B19C565C300531D3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4346359C19C565C300531D3E /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +422,7 @@
 				4346359E19C565C300531D3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
